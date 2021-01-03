@@ -1,2 +1,2 @@
 # methodology
-development group methodology
+Development Group Methodology
